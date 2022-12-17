@@ -7,7 +7,7 @@
   </a>
 </div>  
 
-  &emsp; &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; Languages and tools:
+  &emsp; &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; `Languages and tools:`
   
   <br>
   
