@@ -14,7 +14,7 @@
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,react,angular,bootstrap,nodejs,jquery,git,bash,mongodb,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,java,ts,react,angular,bootstrap,nodejs,jquery,bash,mongodb,vscode" />
   </a>
 </p>
 
