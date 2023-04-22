@@ -3,7 +3,7 @@
   <h3 align="center">👋 Hi there! I am Sourena!</h3>
   <p>👀I am a computer programmer based in Toronto, focused on web development.<br>Currently learning new languages and frameworks, i would also love to get<br>into game design!</p>
   <a href="http://www.linkedin.com/in/sourena-moradi">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" alt="LinkedIn Badge"/>
   </a>
 </div>  
 
