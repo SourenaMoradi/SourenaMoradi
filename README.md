@@ -5,6 +5,10 @@
   <a href="http://www.linkedin.com/in/sourena-moradi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" alt="LinkedIn Badge"/>
   </a>
+  <a href="http://www.sourenamoradi.com">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" alt="website"/>
+  </a>
+  
 </div>  
 
   &emsp; &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; `Languages and tools:`
